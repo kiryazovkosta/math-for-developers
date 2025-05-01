@@ -179,6 +179,8 @@ cython_debug/
 .DS_Store/
 *.pdf
 01.High-School-Maths.pdf
+*.docx
+01.High-School-Maths-Material-Summary.docx
 
 
 
