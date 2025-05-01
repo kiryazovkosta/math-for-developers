@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# User files
+.DS_Store
+.DS_Store/
+*.pdf
+01.High-School-Maths.pdf
+
+
+
+
+
